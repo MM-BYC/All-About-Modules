@@ -21,7 +21,7 @@ createElementTag(
   `rtt31 - assignment: All About Modules`,
   "body"
 );
-applyElementStyle(`.dynamicClass`, `lightgray`);
+applyElementStyle(`.dynamicClass`, `lightGray`);
 
 createElementTag(
   "div",
@@ -29,7 +29,7 @@ createElementTag(
   `date: Aug 21, 2024 author: Michael Marquez`,
   "body"
 );
-applyElementStyle(`.dynamicDiv`, `lightgray`);
+applyElementStyle(`.dynamicDiv`, `lightGray`);
 
 createElementTag("div", ".dynamicT", `SPACE TOURISM`, "body");
 applyTitleStyle(`.dynamicT`);
